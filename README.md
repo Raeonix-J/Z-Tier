@@ -1,4 +1,4 @@
-# 🟥 Z Tier — Beyond Ranking
+# 🏆 Z Tier — Beyond Ranking
 
 > _“Not the best of their time.  
 > The reason time remembers them.”_
