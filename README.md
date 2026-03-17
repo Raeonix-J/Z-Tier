@@ -186,3 +186,4 @@ It is recognized._ 🟥
 # Well here are the Games:-
 
 1. [Minecraft](https://github.com/Raeonix-J/Z-Tier/tree/Minecraft)
+2. [Ori and the Blind Forest](https://github.com/Raeonix-J/Z-Tier/tree/Ori-and-the-Blind-Forest)
